@@ -8,6 +8,10 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    min-height: 50vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .link-button {
